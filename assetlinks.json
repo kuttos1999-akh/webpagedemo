@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.app.playbuddy",
+      "package_name": "com.app.playbuddy",
+      "sha256_cert_fingerprints": [
+        "37:26:61:7E:2F:14:EF:C2:6A:1C:A5:9F:5F:E0:22:5D:07:5F:27:80:DB:91:55:2A:79:35:81:2F:E4:88:CF:87"
+      ]
+    }
+  }
+]
